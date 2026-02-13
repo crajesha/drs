@@ -1,4 +1,3 @@
-Here’s a clean README.md you can directly use for your project 👇
 
 🩺 Dr. Siddesh.g.g – Clinical Consultation Interface
 
